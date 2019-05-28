@@ -14,7 +14,7 @@ def key_for_min_value(name_hash)
     #   counter += 1
     if counter < 3
     puts value
-    binding.pry
+    counter += 1
     end
   end
 end
