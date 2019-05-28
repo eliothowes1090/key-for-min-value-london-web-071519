@@ -12,7 +12,7 @@ def key_for_min_value(name_hash)
     #   return key
     #   counter += 1
     if counter < 1
-    puts value
+    return value
     counter += 1
     end
   end
